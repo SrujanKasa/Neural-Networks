@@ -1,2 +1,4 @@
 # Neural-Networks
-hand written digits recognition
+started in 1st semester
+my first neural network starts here..
+
